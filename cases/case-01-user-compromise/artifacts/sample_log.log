@@ -1,0 +1,4 @@
+Dec 16 08:01 MacBook-Pro loginwindow[123]: User login
+Dec 16 08:15 MacBook-Pro launchd[1]: Loaded unknown plist ~/Library/LaunchAgents/com.fake.agent.plist
+Dec 16 08:20 MacBook-Pro suspicious_script.sh[234]: Executing...
+
